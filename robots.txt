@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://villa-dzamandzar.rentanoo.com/sitemap.xml
